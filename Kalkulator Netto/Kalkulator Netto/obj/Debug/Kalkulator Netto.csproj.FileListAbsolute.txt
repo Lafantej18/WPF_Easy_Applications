@@ -1,0 +1,28 @@
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.exe.config
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.exe
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.pdb
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.csprojAssemblyReference.cache
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\MainWindow.g.cs
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\App.g.cs
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto_MarkupCompile.cache
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto_MarkupCompile.lref
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\MainWindow.baml
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.g.resources
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator_Netto.Properties.Resources.resources
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.csproj.GenerateResource.cache
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.exe
+C:\Users\lafan\source\repos\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.pdb
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.exe.config
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.exe
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\bin\Debug\Kalkulator Netto.pdb
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.csprojAssemblyReference.cache
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\MainWindow.g.cs
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\App.g.cs
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto_MarkupCompile.cache
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto_MarkupCompile.lref
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\MainWindow.baml
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.g.resources
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator_Netto.Properties.Resources.resources
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.csproj.GenerateResource.cache
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.exe
+C:\Users\lafan\Desktop\Kalkulator Netto\Kalkulator Netto\obj\Debug\Kalkulator Netto.pdb
