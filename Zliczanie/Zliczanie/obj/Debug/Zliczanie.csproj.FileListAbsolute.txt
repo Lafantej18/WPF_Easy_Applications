@@ -1,0 +1,14 @@
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\bin\Debug\Zliczanie.exe.config
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\bin\Debug\Zliczanie.exe
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\bin\Debug\Zliczanie.pdb
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.csprojAssemblyReference.cache
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\MainWindow.g.cs
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\App.g.cs
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie_MarkupCompile.cache
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie_MarkupCompile.lref
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\MainWindow.baml
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.g.resources
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.Properties.Resources.resources
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.csproj.GenerateResource.cache
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.exe
+C:\Users\lafan\source\repos\Zliczanie\Zliczanie\obj\Debug\Zliczanie.pdb
